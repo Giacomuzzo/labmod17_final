@@ -1,0 +1,25 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AnimeAce
+FamilyName:Anime Ace
+StyleName:Regular
+MenuName:Anime Ace
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Anime Ace
+WritingScript:Roman
+OutlineFileName:\animeace.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:28252
+FileModTime:993755904
+NameArray:0,Mac,4,Anime Ace
+NameArray:0,Win,1,Anime Ace
+%EndFont
+
