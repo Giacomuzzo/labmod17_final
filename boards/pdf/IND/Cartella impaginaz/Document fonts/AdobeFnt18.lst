@@ -20,7 +20,11 @@ UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 FileLength:218640
+<<<<<<< HEAD
+FileModTime:1490833622
+=======
 FileModTime:1519254415
+>>>>>>> 15c1f0bc1fabd1ba49bff33492e113d913eb174f
 DesignSize:110
 NameArray:0,Mac,4,Minion Pro
 NameArray:0,Win,1,Minion Pro
